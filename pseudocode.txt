@@ -1,0 +1,19 @@
+//Start Program
+
+// Create two arrays
+    // Days of Week
+    // Daily Temps
+
+// Ask user for temps
+// User input
+    // Store input for day and temp
+
+// Loop through all the days
+
+// Loop through all for the week
+    // Calculate the weekly average temp
+
+
+//Display all results
+
+//End Program
